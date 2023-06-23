@@ -1,5 +1,5 @@
 # R-Bioinformatic
-A learning repository about bioinformatic with R 
+# A learning repository about bioinformatic with R 
 
 Bioinformatics is a multidisciplinary field that combines biology, computer science, and statistics to analyze and interpret biological data. It involves the application of computational methods and algorithms to understand biological processes, organize and analyze large-scale biological datasets, and gain insights into complex biological systems.
 
@@ -23,8 +23,7 @@ Some specific areas of bioinformatics include:
 
 Bioinformatics tools and databases are essential for researchers in these areas to store, retrieve, and analyze biological data. They also contribute to advancements in fields such as drug discovery, personalized medicine, and agricultural biotechnology by aiding in the identification of potential drug targets, understanding disease mechanisms, and improving crop productivity.
 
-##----------------------------------------------------------------------------------------------------------
-First of all, I run all my R-projects on PyCharm Community which has installed the R-program in my operating system and its plugin in PyCharm. Therefore, you should install R on your system and also R's IDE.
+## First of all, I run all my R-projects on PyCharm Community which has installed the R-program in my operating system and its plugin in PyCharm. Therefore, you should install R on your system and also R's IDE.
 
 Regards.
 Agus Wibowo
