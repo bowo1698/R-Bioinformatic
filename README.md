@@ -23,7 +23,7 @@ Some specific areas of bioinformatics include:
 
 Bioinformatics tools and databases are essential for researchers in these areas to store, retrieve, and analyze biological data. They also contribute to advancements in fields such as drug discovery, personalized medicine, and agricultural biotechnology by aiding in the identification of potential drug targets, understanding disease mechanisms, and improving crop productivity.
 
-## First of all, I run all my R-projects on PyCharm Community which has installed the R-program in my operating system and its plugin in PyCharm. Therefore, you should install R on your system and also R's IDE.
+First of all, I run all my R-projects on PyCharm Community which has installed the R-program in my operating system and its plugin in PyCharm. Therefore, you should install R on your system and also R's IDE.
 
 Regards.
-Agus Wibowo
+# Agus Wibowo
